@@ -48,3 +48,12 @@ There should be a link like `http://localhost:8xxx/?token...` displayed in the o
 ```
 jupyter notebook --no-browser --port 8xxx
 ```
+
+### Updating the git repository
+
+When changes are made to a github repository, you can 'pull' the changes from github to your local git repository.  This can be done using the command:
+
+```
+git pull origin master
+```
+
